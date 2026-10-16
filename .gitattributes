@@ -1,6 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-*.extension filter=lfs diff=lfs merge=lfs -text
+
 ## git-lfs ##
 #Image
 *.jpg               filter=lfs diff=lfs merge=lfs -text
